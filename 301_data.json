@@ -1,0 +1,1871 @@
+{  
+    "data":[
+        {
+          "source": "/about-waaree",
+          "destination": "/about",
+         "permanent": true
+        },
+  
+        {
+          "source": "/client.php",
+          "destination": "/clientele",
+         "permanent": true
+        },
+  
+        {
+          "source": "/channel-partner",
+          "destination": "/partners",
+         "permanent": true
+        },
+  
+        {
+          "source": "/epc-for-utility-scale-projects",
+          "destination": "/services",
+         "permanent": true
+        },
+  
+        {
+          "source": "/epc-operations-maintenance",
+          "destination": "/services/epc-operations-maintenance",
+         "permanent": true
+        },
+  
+        {
+          "source": "/epc-rooftop-solution",
+          "destination": "/services/epc-rooftop-solution",
+         "permanent": true
+        },
+  
+        {
+          "source": "/epc-floating-solar-solution",
+          "destination": "/services/epc-floating-solar-solution",
+         "permanent": true
+        },
+  
+        {
+          "source": "/epc-ground-mount-solution",
+          "destination": "/services/epc-ground-mount-solution",
+         "permanent": true
+        },
+  
+        {
+          "source": "/contact-waaree",
+          "destination": "/contact",
+         "permanent": true
+        },
+  
+        {
+          "source": "/media.php",
+          "destination": "/media-coverage",
+         "permanent": true
+        },
+  
+        {
+          "source": "/VirtualStall",
+          "destination": "/",
+         "permanent": true
+        },
+  
+        {
+          "source": "/newsletter",
+          "destination": "/",
+         "permanent": true
+        },
+  
+        {
+          "source": "/newsletter.php",
+          "destination": "/",
+         "permanent": true
+        },
+  
+        {
+          "source": "/testimonials.php",
+          "destination": "/testimonials",
+         "permanent": true
+        },
+  
+        {
+          "source": "/electric-water-pump",
+          "destination": "/products",
+         "permanent": true
+        },
+  
+  
+        {
+          "source": "/project_gallery.php",
+          "destination": "/case-study",
+         "permanent": true
+        },
+  
+        {
+          "source": "/project-gallery",
+          "destination": "/case-study",
+         "permanent": true
+        },
+  
+        {
+          "source": "/case-studies",
+          "destination": "/case-study",
+         "permanent": true
+        },
+  
+        {
+          "source": "/map.php",
+          "destination": "/partners",
+         "permanent": true
+        },
+  
+        {
+          "source": "/index.php/solar-finance",
+          "destination": "/",
+         "permanent": true
+        },
+  
+        {
+          "source": "/index.php/terms-and-conditions",
+          "destination": "/",
+         "permanent": true
+        },
+  
+        {
+          "source": "/social_stream.php",
+          "destination": "/",
+         "permanent": true
+        },
+  
+        {
+          "source": "/customer_feedback.php",
+          "destination": "/contact",
+         "permanent": true
+        },
+        
+  
+        {
+          "source": "/battery-support",
+          "destination": "/contact",
+         "permanent": true
+        },
+  
+        {
+          "source": "/defexpo-2016",
+          "destination": "/all-events",
+         "permanent": true
+        },
+  
+        {
+          "source": "/jobs.php",
+          "destination": "/work-with-us",
+         "permanent": true
+        },
+  
+        {
+          "source": "/floating-solar-pv-market",
+          "destination": "/services/epc-floating-solar-solution",
+         "permanent": true
+        },
+  
+        {
+          "source": "/photo-gallery",
+          "destination": "/media-coverage",
+         "permanent": true
+        },
+  
+        {
+          "source": "/map-new.php",
+          "destination": "/partners",
+         "permanent": true
+        },
+    
+        {
+          "source": "/blog/blog-archive-1-2022-1",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-category-Solar-10",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-category-solar-9",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-page-5",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+  
+        {
+          "source": "/blog/blog-page-2",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-category-Solar-8",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-category-solar-6",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-page-6",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-archive-2-2018-1",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-page-4",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/blog-page-3",
+          "destination": "/blog",
+         "permanent": true
+        },
+  
+  
+        {
+          "source": "/pv-module",
+          "destination": "/products/pv-module",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arun-ws-40-ws-90",
+          "destination": "/products/pv-module",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arun-ws-100-ws-235",
+          "destination": "/products/pv-module",
+         "permanent": true
+        },
+  
+        {
+          "source": "/aditya-60-cells-ws250wp-ws295wp",
+          "destination": "/products/pv-module/poly",
+         "permanent": true
+        },
+  
+        {
+          "source": "/aditya-72-cells-ws320wp-ws350wp",
+          "destination": "/products/pv-module/poly",
+         "permanent": true
+        },
+  
+        {
+          "source": "/aditya-144-cells-wsd325wp-wsd350wp",
+          "destination": "/products/pv-module/poly",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ARKA-M10-cells-WSMD-515-to-WSMD-545-Mono-PERC-Solar-panel",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arka-72-cells-wsm-380wp-395wp",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arka-72-cells-wsm-335wp-ac-module",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arka-144half-cells-wsmd-380wp-400wp",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arka-m6-cells-wsm-420wp-455wp",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arka-132-cells-wsm-645wp-665wp",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arka-60-cells-wsm-315wp-330wp",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arka-120-cells-wsm-580wp-600wp",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/arka-60-cells-wsmb-300-black-black",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/monocrystalline-solar-pv-module",
+          "destination": "/products/pv-module/mono-perc",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-144-cells-bi-380wp-400wp",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-m10-cell-bi-55-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-144-cell-bi-17-glass-transparent-backsheet",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-m10-cell-bi-57-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-120-cell-bi-66-dual-glass",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-144-cell-bi-13-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-m6-cell-bi-33-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-m6-cell-bi-31-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-144-cell-bi-27-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-132-cell-bi-68-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-72-cell-bi-25-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-72-cell-bi-11-dual-glass--half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-72-cells-bi-350wp-395wp-glass-glass",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-132-cell-bi-67-dual-glass-half-cell",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/ahnay-120-cell-bi-65-dual-glass",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/540-wp-bifacial-solar-panel",
+          "destination": "/products/pv-module/bifacial",
+         "permanent": true
+        },
+  
+        {
+          "source": "/merlin-flexible-pv-module",
+          "destination": "/products/pv-module/flexible",
+         "permanent": true
+        },
+  
+        {
+          "source": "/bipv-modules-390wp-400wp",
+          "destination": "/products/pv-module/bipv",
+         "permanent": true
+        },
+  
+        {
+          "source": "/products-and-portable-kits",
+          "destination": "/products/solar-products",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/1kw-on-grid-solar-system-price-in-india-2021",
+          "destination": "/blog/1kw-on-grid-solar-system-price-in-india",
+         "permanent": true
+        },
+      
+        {
+          "source": "/blog/1-kW-solar-system-price-in-india-2021",
+          "destination": "/blog/1-kw-solar-panel-price-in-india",
+         "permanent": true
+        },
+       
+        {
+          "source": "/blog/2KW-on-Grid-Solar-System-Price-in-India",
+          "destination": "/blog/2-kw-on-grid-solar-system-price-in-india",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/3kw-solar-system-price-In-India-2021",
+          "destination": "/blog/3kw-solar-system-price-in-india",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/3-proven-ways-to-save-the-electricity-bill-by-50%-for-my-home",
+          "destination": "/blog/3-proven-ways-to-save-the-electricity-bill-for-my-home",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/40-gw-from-rooftop-pv-by-2022-still-myth",
+          "destination": "/blog/40-gw-from-rooftop-pv-still-myth",
+         "permanent": true
+        },  
+
+        {
+          "source": "/blog/500w-solar-system-price-in-India-2021",
+          "destination": "/blog/500w-solar-system-price-in-india",
+         "permanent": true
+        },
+       
+        {
+          "source": "/blog/6-steps-guide-on-how-to-get-subsidy-on-solar-rooftop-system-in-haryana",
+          "destination": "/blog/how-to-get-subsidy-on-solar-rooftop-system-in-haryana",
+         "permanent": true
+        },
+      
+        {
+          "source": "/blog/best-solar-panels-in-india-2021-efficiency-and-reviews",
+          "destination": "/blog/best-solar-panels-in-india-efficiency-and-reviews",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/buy-waaree-solar-panel-for-water-pump-street-light-&-home-at-low-cost",
+          "destination": "/blog/buy-waaree-solar-panel-for-water-pump-street-light-and-home-at-low-cost",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/can-solar-panel-cool-off-your-air-conditioner-solar-panels-for-ac",
+          "destination": "/blog/can-solar-panel-cool-off-your-air-conditioner",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/common-problems-in-pv-plant-part1",
+          "destination": "/blog/common-problems-in-pv-plant-part-1",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/common-problems-in-pv-plant-part2",
+          "destination": "/blog/common-problems-in-pv-plant-part-2",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/common-problems-in-pv-plant-part3",
+          "destination": "/blog/common-problems-in-pv-plant-part-3",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/Designing-bifacial-PV-power-plants-Getting-the-details-right",
+          "destination": "/blog/designing-bifacial-pv-power-plants-getting-the-details-right-part-2",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/designing-bifacial-pv-power-plants-part1.htm",
+          "destination": "/blog/designing-bifacial-pv-power-plants-getting-the-details-right-part-1",
+         "permanent": true
+        },
+  
+        
+        {
+          "source": "/blog/doublet-module-the-magic-of-two.htm",
+          "destination": "/blog/doublet-module-the-magic-of-two",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/electric-cars-poweres-by-solar",
+          "destination": "/blog/electric-cars-powered-by-solar",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/heterojunction-solar-cells",
+          "destination": "/blog/heterojunction-the-technological-way-ahead-for-solar-pv-part-1",
+         "permanent": true
+        },
+  
+       
+        {
+          "source": "/blog/heterojunction-the-technological-way-ahead-for-solar-PV",
+          "destination": "/blog/heterojunction-the-technological-way-ahead-for-solar-pv-part-2",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/how-many-watts-kilowatt",
+          "destination": "/blog/how-many-watts-in-a-kilowatt",
+         "permanent": true
+        },
+           
+        {
+          "source": "/blog/how-much-solar-panel-installation-cost-in-India-2021",
+          "destination": "/blog/how-much-solar-panel-installation-cost-in-india",
+         "permanent": true
+        },
+       
+        {
+          "source": "/blog/how-solar-panels-work-at-night",
+          "destination": "/blog/will-solar-panel-work-at-night",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/how-to-calculate-home-load",
+          "destination": "/blog/how-to-calculate-home-load",
+         "permanent": true
+        },      
+       
+        {
+          "source": "/blog/how-to-choose-a-solar-panel-between-a-24v-and-12v",
+          "destination": "/blog/how-to-choose-solar-panel-between-12-v-and-24-v",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/how-to-earn-money-online",
+          "destination": "/blog/how-to-earn-money-online-from-home",
+         "permanent": true
+        },       
+      
+        {
+          "source": "/blog/mono-vs-poly.htm",
+          "destination": "/blog/mono-vs-poly-an-intro-spectives-imulation-study-part-1",
+         "permanent": true
+        },
+  
+        {
+          "source": "/blog/mono-vs-poly-part-2.htm",
+          "destination": "/blog/mono-vs-poly-an-introspective-simulation-study-part-2",
+         "permanent": true
+        },      
+        
+        {
+          "source": "/blog/need-to-know-about-floating-solar-panels",
+          "destination": "/blog/floating-solar-what-you-need-to-know",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/next-in-super-series.htm",
+          "destination": "/blog/next-in-super-series",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/presenting-the-future-of-pv-modules.htm",
+          "destination": "/blog/presenting-the-future-of-pv-waaree-bipv-modules",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/reliable-raw-material.htm",
+          "destination": "/blog/reliable-raw-material",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/rewards-of-solar-panels",
+          "destination": "/blog/can-i-get-rewards-while-buying-solar-panels",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/selecting-the-right-solar-pv-module.htm",
+          "destination": "/blog/selecting-the-right-solar-pv-module-the-end-consumer-s-dilemma-part-2",
+         "permanent": true
+        },
+  
+        
+        {
+          "source": "/blog/selecting-the-right-solar-pv-module-the-end-consumers-dilemma-part-2.htm",
+          "destination": "/blog/selecting-the-right-solar-pv-module-the-end-consumer-s-dilemma-part-2",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/sizing-anoff-grid-solar-power-plant",
+          "destination": "/blog/sizing-an-off-grid-solar-power-plant",
+         "permanent": true
+        },
+        
+        {
+          "source": "/blog/solar-air-conditioner-a-complete-guide",
+          "destination": "/blog/solar-air-conditioner",
+         "permanent": true
+        },
+      
+        {
+          "source": "/blog/solar-home-lighting-system",
+          "destination": "/blog/solar-lighting-system-for-your-home",
+         "permanent": true
+        },
+  
+        {
+            "source": "/blog/solar-panel-price-in-kanpur-uttar-pradesh-2022",
+            "destination": "/blog/solar-panel-price-in-kanpur",
+           "permanent": true
+        },
+          
+        {
+            "source": "/blog/solar-panels-for-home",
+            "destination": "/blog/solar-panels-for-your-home",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-panel-subsidy-in-gujarat-2021-geda-approved-vendors-list",
+            "destination": "/blog/solar-panel-subsidy-in-gujarat-geda-approved-vendors-list",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-panel-subsidy-in-India-2021",
+            "destination": "/blog/solar-panel-subsidy-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-panel-subsidy-in-kerala-2021",
+            "destination": "/blog/solar-panel-subsidy-in-kerala",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-panel-subsidy-in-tamil-nadu-2021-process-of-net-metering",
+            "destination": "/blog/solar-panel-subsidy-in-tamil-nadu",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-panel-subsidy-in-uttar-pradesh-2020-a-beginners-guide",
+            "destination": "/blog/solar-panel-subsidy-in-uttar-pradesh",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-panels-work-at-night-time",
+            "destination": "/blog/solar-panels-work-at-night",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-powered-pesticide-sprayer-for-agriculture",
+            "destination": "/blog/solar-powered-pesticide",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-subsidy-in-bihar-how-to-apply-for-solar-subsidy-in-bihar",
+            "destination": "/blog/solar-subsidy-in-bihar",
+           "permanent": true
+        },          
+         
+        {
+            "source": "/blog/solar-subsidy-in-Maharashtra-2021",
+            "destination": "/blog/solar-subsidy-in-maharashtra",
+           "permanent": true
+        },  
+  
+        {
+            "source": "/blog/solar-system-guide-in-hindi",
+            "destination": "/blog/solar-system-for-home-in-hindi",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/solar-wind-hybrid-plant.htm",
+            "destination": "/blog/solar-wind-hybrid-plant-technology-and-policy-update",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/tax-rebate-grants-on-solar-power",
+            "destination": "/blog/tax-rebates-and-grants-on-solar-power-in-india",
+           "permanent": true
+        },  
+          
+         
+        {
+            "source": "/blog/the-module-size-race.htm",
+            "destination": "/blog/module-size-race-impact-on-future-solar-project",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/the-next-break-through-in-O-and-M.htm",
+            "destination": "/blog/the-next-breakthrough-in-o-and-m",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/time-for-solar-revolution.htm",
+            "destination": "/blog/time-for-solar-revolution-2.o",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/Top-10-Best-Solar-Installers-in-Bhopal-Madhya-Pradesh",
+            "destination": "/blog/best-solar-installers-in-bhopal-madhya-pradesh",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-10-leading-mounting-structure-companies-2020-in-India",
+            "destination": "/blog/top-10-leading-mounting-structure-companies-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-10-rooftop-solar-installation-companies-in-India-2021",
+            "destination": "/blog/top-10-rooftop-solar-installation-companies-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-10-solar-battery-companies-in-india-2021-for-home-&-business",
+            "destination": "/blog/top-10-solar-battery-companies-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-10-solar-battery-companies-in-india-2021-for-home-&-business",
+            "destination": "/blog/top-10-solar-battery-companies-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-10-solar-battery-companies-in-india-2021-for-home-and-business",
+            "destination": "/blog/top-10-solar-battery-companies-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-10-solar-companies-in-India-in-2021",
+            "destination": "/blog/top-10-solar-companies-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-10-solar-inverter-manufacturing-brands-in-India-2021",
+            "destination": "/blog/top-10-solar-inverter-manufacturing-brands-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-10-solar-panel-manufacturers-in-the-world-2021-expert-reviews",
+            "destination": "/blog/top-10-solar-inverter-manufacturing-brands-in-india",
+           "permanent": true
+        },  
+          
+        {
+            "source": "/blog/top-5-hybrid-inverter-brands-in-India-2021",
+            "destination": "/blog/top-5-hybrid-inverter-brands-in-india",
+           "permanent": true
+        },  
+
+      
+        {
+            "source": "/blog/transition-from-lead-acid-battery-to-lithium-ion-battery.htm",
+            "destination": "/blog/transition-from-lead-acid-battery-to-lithium-ion-battery",
+           "permanent": true
+        }, 
+      
+        {
+            "source": "/blog/transition-from-lead-acid-battery-to-lithium-ion-battery-part-2.htm",
+            "destination": "/blog/transition-from-lead-acid-battery-to-lithium-ion-battery-part-2",
+           "permanent": true
+       }, 
+      
+       {
+            "source": "/blog/What-is-a-Renewable-Energy-Certificate-in-India",
+            "destination": "/blog/what-is-a-renewable-energy-certificate-rec-in-india",
+           "permanent": true
+       }, 
+    
+       {
+            "source": "/blog/what-is-monofacial-and-bifacial-solar-cell",
+            "destination": "/blog/bifacial-solar-panels",
+           "permanent": true
+       }, 
+    
+      {
+            "source": "/blog/what-is-net-metering-how-can-i-check-it",
+            "destination": "/blog/solar-net-metering",
+           "permanent": true
+      }, 
+  
+      {
+            "source": "/blog/which-solar-pump-is-best",
+            "destination": "/blog/which-solar-pump-is-best-for-you",
+           "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/1500-v-solar-dc-system-voltage-is-the-time-ripe",
+        "destination": "/blog/1500v-solar-DC-system-voltage",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-much-electricity-does-a-1mw-solar-power-plant-generate-in-a-month",
+        "destination": "/blog/1mw-solar-power-plant-generate-electricity-in-month",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/3-proven-ways-to-save-the-electricity-bill-by-50-for-my-home",
+        "destination": "/blog/3-proven-ways-to-save-the-electricity-bill-for-my-home",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/40-gw-from-rooftop-pv-by-2022-still-a-myth",
+        "destination": "/blog/40-gw-from-rooftop-pv-still-myth",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/waaree-540-wp-bifacial-solar-panel-multi-busbar-solar-modules",
+        "destination": "/blog/540Wp-bifacial-solar-panel",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/5-mw-solar-power-energy-plant-in-india-profit-cost-and-land-requirement",
+        "destination": "/blog/5-mw-solar-power-plant-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/6-steps-guide-on-how-to-get-subsidy-on-solar-rooftop-system-in-haryana",
+        "destination": "/blog/how-to-get-subsidy-on-solar-rooftop-system-in-haryana",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/top-5-advantages-of-solar-energy-on-environment-and-health",
+        "destination": "/blog/advantages-of-solar",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/agrophotovoltaic-systems-applications-challenges-and-opportunities",
+        "destination": "/blog/agrophotovoltaic-systems",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-are-the-benefits-of-an-off-the-grid-solar-system",
+        "destination": "/blog/benefits-of-off-grid-solar-system",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/best-and-top-10-solar-inverters-in-2022-features-and-reviews",
+        "destination": "/blog/best-and-top-10-solar-inverters-features-and-reviews",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-should-be-the-best-angle-for-a-solar-panel-installation",
+        "destination": "/blog/best-angle-for-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/the-5-best-outdoor-solar-lights-2022",
+        "destination": "/blog/best-outdoor-solar-lights",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/best-solar-system-for-home",
+        "destination": "/blog/best-solar-panels-for-homes",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-to-buy-the-best-solar-panels-in-india",
+        "destination": "/blog/best-solar-panels-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/15-solar-tech-gadgets-for-your-home",
+        "destination": "/blog/best-solar-powered-gadgets-for-home",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/the-best-3-solar-product-marketplaces-in-india",
+        "destination": "/blog/best-solar-products-marketplaces-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-is-the-best-time-to-use-solar-system",
+        "destination": "/blog/best-time-to-use-solar-system",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/bifacial-solar-panels-what-you-need-to-know",
+        "destination": "/blog/bifacial-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/bipv-a-future-tech-or-a-myth",
+        "destination": "/blog/bipv-a-future-tech-or-myth",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/benefits-of-solar-panel-installation-for-home-commercial-buildings",
+        "destination": "/blog/business-benefits-commercial-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/can-solar-panel-cool-off-your-air-conditioner-solar-panels-for-ac",
+        "destination": "/blog/can-solar-panel-cool-off-your-air-conditioner",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/can-you-charge-an-electric-bike-with-a-solar-panel",
+        "destination": "/blog/charge-electric-bike-with-solar-panel",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/cleaning-solar-panels-is-it-necessary-and-how-to-do-it",
+        "destination": "/blog/cleaning-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/8-best-tips-for-successful-email-marketing-campaigns-for-solar-companies",
+        "destination": "/blog/email-marketing-for-solar-companies",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/energy-storage-systems-its-role-today-will-guide-the-future-tomorrow",
+        "destination": "/blog/energy-storage-systems",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/11-extraordinary-ways-you-can-go-solar-and-save-energy",
+        "destination": "/blog/extraordinary-ways-go-solar-energy",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/all-you-need-to-know-about-floating-solar-panels",
+        "destination": "/blog/floating-solar-what-you-need-to-know",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-will-be-the-future-of-solar-energy-in-the-next-5-10-years",
+        "destination": "/blog/future-solar-energy",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-much-does-a-ground-mount-solar-system-cost",
+        "destination": "/blog/ground-mounted-solar-panels-cost",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/heterojunction-the-technological-way-ahead-for-solar-pv-1",
+        "destination": "/blog/heterojunction-the-technological-way-ahead-for-solar-pv-part-1",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-does-a-bess-battery-energy-storage-system-work",
+        "destination": "/blog/how-battery-energy-storage-works",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-many-solar-panels-are-needed-to-charge-an-electric-car",
+        "destination": "/blog/how-many-solar-panels-to-charge-an-electric-car",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-many-solar-panels-are-required-to-mine-a-bitcoin",
+        "destination": "/blog/how-many-solar-panels-to-mine-bitcoin",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-much-is-a-1k-w-solar-panel-price-in-kolkata",
+        "destination": "/blog/how-much-is-a-1kw-solar-panel-price-in-kolkata",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-much-solar-panel-installation-cost-in-india-2022",
+        "destination": "/blog/how-much-solar-panel-installation-cost-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-does-solar-energy-storage-system-work",
+        "destination": "/blog/how-solar-energy-storage-works",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/science-of-solar-how-does-it-work",
+        "destination": "/blog/how-solar-panels-work",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/will-solar-panel-work-at-night",
+        "destination": "/blog/how-solar-panels-work",
+       "permanent": true
+      }, 
+  
+      {
+        "source": "/blog/how-does-the-solar-power-system-work",
+        "destination": "/blog/how-solar-power-system-works",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-can-a-solar-rooftop-installation-be-helpful-for-a-business",
+        "destination": "/blog/how-solar-rooftop-installation-helpful-for-business",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-to-apply-net-metering-in-maharashtra-easy-step-by-step-guide",
+        "destination": "/blog/how-to-apply-net-metering-in-maharashtra",
+       "permanent": true
+      }, 
+  
+      {
+        "source": "/blog/how-to-calculate-home-load",
+        "destination": "/blog/how-to-calculate-home-load",
+       "permanent": true
+      },
+      
+      {
+        "source": "/blog/how-to-choose-a-solar-panel-between-a-24-v-and-12-v",
+        "destination": "/blog/how-to-choose-solar-panel-between-12-v-and-24-v",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/how-do-i-decide-what-solar-inverter-is-right-for-my-home",
+        "destination": "/blog/how-to-decide-the-right-solar-inverter-battery-for-your-home",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/how-to-make-a-solar-diya-at-home",
+        "destination": "/blog/how-to-make-solar-diya-at-home",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/how-to-sell-solar-panels-online-like-pro-and-earn-money",
+        "destination": "/blog/how-to-sell-solar-panels-online",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/how-to-size-a-solar-system-comprehensive-guide",
+        "destination": "/blog/how-to-size-solar-system",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/investment-in-solar-energy-is-it-worth-the-price",
+        "destination": "/blog/investment-in-solar-energy",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/is-investing-in-solar-a-best-option-in-india-where-why-how-and-profit",
+        "destination": "/blog/is-investing-in-solar-a-best-option-in-India",
+       "permanent": true
+      },         
+      
+      {
+        "source": "/blog/lid-and-le-tid-is-this-age-old-problem-inevitable",
+        "destination": "/blog/lid-and-letid",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/is-it-true-that-the-life-of-solar-panel-is-25-years",
+        "destination": "/blog/life-of-solar-panels",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/why-is-a-lightning-arrestor-needed-in-a-solar-plant",
+        "destination": "/blog/lightening-arrestor-need-in-solar",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/lightening-arrestor-la-or-surge-protection-device-spd-what-is-of-utmost-necessity-for-a-solar-plant",
+        "destination": "/blog/lightening-arrestor-or-surge-protection",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/how-to-maintain-a-solar-plant-during-a-solar-eclipse",
+        "destination": "/blog/maintain-solar-plant-during-solar-eclipse",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/the-next-in-our-super-series-superhjt",
+        "destination": "/blog/next-in-super-series",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/n-type-or-p-type-cell-what-is-the-world-mulling-for",
+        "destination": "/blog/n-p-type-cell",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/orientation-and-positioning-of-solar-module",
+        "destination": "/blog/orientation-positioning-of-solar-module",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/polycrystalline-solar-panels-what-you-need-to-know",
+        "destination": "/blog/polycrystalline-solar-panels",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/powering-music-with-renewable-energy",
+        "destination": "/blog/powering-music-renewable-energy",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/pv-modules-for-utility-scale-plant-importance-of-module-rating-and-binning-13th-may-2021",
+        "destination": "/blog/pv-modules-for-utility-scale-plant",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/top-reasons-why-people-don-t-install-solar-panels-in-india",
+        "destination": "/blog/reasons-behind-people-not-installing-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/reliable-raw-material-strengthening-the-back-bone-of-pv-module",
+        "destination": "/blog/reliable-raw-material",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-to-remove-and-reinstall-solar-panels",
+        "destination": "/blog/remove-and-reinstall-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/renewable-energy-definition-and-types-of-renewable-energy-sources",
+        "destination": "/blog/renewable-energy-sources",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/is-it-possible-to-run-home-appliances-on-solar-power",
+        "destination": "/blog/run-home-appliances-on-solar-power",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/shading-loss-an-introduction-its-impact-on-economics-and-mitigation-techniques",
+        "destination": "/blog/shading-loss",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panels-for-buses-should-buses-use-solar-panels",
+        "destination": "/blog/should-buses-use-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/sizing-an-off-grid-solar-power-plant-basic-steps-and-important-considerations",
+        "destination": "/blog/sizing-an-off-grid-solar-power-plant",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/soiling-losses-introduction-and-effects-on-solar-module",
+        "destination": "/blog/soiling-losses-introduction-and-effects",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-ac-modules-it-s-time-for-pv-modules-to-get-smarter",
+        "destination": "/blog/solar-ac-modules-Its-time-for-pv-modules-to-get-smarter",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/solar-air-conditioner-a-complete-guide",
+        "destination": "/blog/solar-air-conditioner",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-is-a-solar-biscuit-digital-solar",
+        "destination": "/blog/solar-biscuit",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-calculator-how-can-i-estimate-solar-capacity-for-my-home",
+        "destination": "/blog/solar-calculator-how-can-I-calculate-solar-for-my-home",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-cells-where-is-the-world-moving",
+        "destination": "/blog/solar-cells-where-world-moving",
+       "permanent": true
+      }, 
+  
+      
+      {
+        "source": "/blog/what-does-a-solar-consultant-do-and-how-do-they-earn-money",
+        "destination": "/blog/solar-consultant-do",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-energy-what-you-need-to-know",
+        "destination": "/blog/solar-energy",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-can-i-start-a-solar-energy-business-with-50-00-000-inr",
+        "destination": "/blog/solar-energy-business",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/awesome-facts-about-solar-energy-you-can-t-miss",
+        "destination": "/blog/solar-energy-facts",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/why-solar-power-system-in-high-demand-for-healthcare-sectors",
+        "destination": "/blog/solar-in-high-demand-for-healthcare-sectors",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-is-a-solar-jugnu",
+        "destination": "/blog/solar-jugnu",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-is-solar-net-metering-and-how-does-it-work",
+        "destination": "/blog/solar-net-metering",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panel-efficiency-how-important-is-it",
+        "destination": "/blog/solar-panel-efficiency-importance",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-can-i-power-with-a-solar-panel-from-my-balcony",
+        "destination": "/blog/solar-panel-from-balcony",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/the-complete-guide-to-solar-panel-maintenance",
+        "destination": "/blog/solar-panel-maintenance",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panel-price-in-kanpur-uttar-pradesh-2022",
+        "destination": "/blog/solar-panel-price-in-kanpur",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-is-the-degradation-rate-of-a-solar-panel-and-amp-how-long-it-last",
+        "destination": "/blog/solar-panels-degradation",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panel-for-boats-be-fuel-independent",
+        "destination": "/blog/solar-panels-for-boats",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/do-solar-panels-work-on-commercial-buildings",
+        "destination": "/blog/solar-panels-for-commercial-buildings",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panels-for-home-office-and-amp-shop-price-in-india",
+        "destination": "/blog/solar-panels-for-home-office-shop-price-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/do-solar-panels-increase-your-home-value",
+        "destination": "/blog/solar-panels-increase-home-value",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-powered-house-in-ladakh",
+        "destination": "/blog/solar-panels-in-ladakh",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panel-subsidy-in-gujarat-2022-geda-approved-vendors-list",
+        "destination": "/blog/solar-panel-subsidy-in-gujarat-geda-approved-vendors-list",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panel-subsidy-in-india-2022",
+        "destination": "/blog/solar-panel-subsidy-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/back-to-blog-solar-panel-subsidy-in-kerala-2022",
+        "destination": "/blog/solar-panel-subsidy-in-kerala",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panel-subsidy-in-tamil-nadu-2022-process-of-net-metering",
+        "destination": "/blog/solar-panel-subsidy-in-tamil-nadu",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-do-solar-panels-do-at-night",
+        "destination": "/blog/solar-panels-work-at-night",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-photovoltaic-module-warranty-terms-and-trends",
+        "destination": "/blog/solar-photovoltaic-module-warranty",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/the-7-best-solar-power-banks-chargers-in-2022",
+        "destination": "/blog/solar-power-banks",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-power-hydroponics-the-complete-guide",
+        "destination": "/blog/solar-powered-hydroponics",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/job-opportunities-in-the-solar-energy-sector",
+        "destination": "/blog/solar-sector-career-opportunities",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-subsidy-in-bihar-how-to-apply-for-solar-panel-subsidy",
+        "destination": "/blog/solar-subsidy-in-bihar",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-subsidy-in-maharashtra-2022",
+        "destination": "/blog/solar-subsidy-in-maharashtra",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-subsidy-in-punjab-get-40-subsidy-on-rooftop-solar",
+        "destination": "/blog/solar-subsidy-in-punjab",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/how-to-apply-for-solar-subsidy-in-rajasthan-2022",
+        "destination": "/blog/solar-subsidy-in-rajasthan",
+       "permanent": true
+      }, 
+     
+      {
+        "source": "/blog/solar-heated-tent-for-soldiers-features-benefits-and-applications",
+        "destination": "/blog/solar-tent",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-train-how-does-it-work",
+        "destination": "/blog/solar-train",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-panel-tractor-trolley-system-applications-and-benefits",
+        "destination": "/blog/solar-trolley",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-water-heater-the-comprehensive-guide-1",
+        "destination": "/blog/solar-water-heater",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-water-pump-1-hp-10-hp-price-in-india",
+        "destination": "/blog/solar-water-pump-price",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-window-the-next-solar-investment",
+        "destination": "/blog/solar-window",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/start-your-own-solar-business-in-india",
+        "destination": "/blog/start-solar-business-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/step-by-step-guide-for-solar-panel-installation-in-2022",
+        "destination": "/blog/step-by-step-solar-installation-guide",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/steps-to-install-rooftop-solar-panel-7-step-guides-with-images",
+        "destination": "/blog/steps-to-install-rooftop-solar-panel",
+       "permanent": true
+      }, 
+  
+      
+      {
+        "source": "/blog/the-story-of-thinkphi",
+        "destination": "/blog/story-of-thinkphi",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/10-strong-reasons-why-solar-energy-is-important-for-the-future",
+        "destination": "/blog/strong-reasons-why-solar-energy",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/the-module-size-race-impact-on-future-solar-project-development",
+        "destination": "/blog/module-size-race-impact-on-future-solar-project",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/time-for-solar-revolution-2-0",
+        "destination": "/blog/time-for-solar-revolution-2.o",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/know-about-the-top-10-solar-installers-in-bhopal",
+        "destination": "/blog/best-solar-installers-in-bhopal-madhya-pradesh",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/top-10-leading-mounting-structure-companies-2022-in-india",
+        "destination": "/blog/top-10-leading-mounting-structure-companies-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/top-10-rooftop-solar-installation-companies-in-india-2022",
+        "destination": "/blog/top-10-rooftop-solar-installation-companies-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/top-10-solar-inverter-manufacturing-brands-in-india-2022",
+        "destination": "/blog/top-10-solar-inverter-manufacturing-brands-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/top-10-solar-panel-manufacturers-in-the-world-2022-expert-reviews-1",
+        "destination": "/blog/top-10-solar-inverter-manufacturing-brands-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/top-5-hybrid-inverter-brands-in-india-2022",
+        "destination": "/blog/top-5-hybrid-inverter-brands-in-india",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/lithium-ion-battery-manufacturers-in-the-world-2022",
+        "destination": "/blog/top-lithium-ion-battery-manufacturers-in-the-world",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/the-transition-from-lead-acid-battery-to-lithium-ion-battery-why-is-the-shift-necessary-part-1",
+        "destination": "/blog/transition-from-lead-acid-battery-to-lithium-ion-battery",
+       "permanent": true
+      }, 
+     
+      {
+        "source": "/blog/the-transition-from-lead-acid-battery-to-lithium-ion-battery-why-is-the-shift-necessary-part-2",
+        "destination": "/blog/transition-from-lead-acid-battery-to-lithium-ion-battery-part-2",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/transparent-solar-panels-the-complete-guide",
+        "destination": "/blog/transparent-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/types-of-solar-panels-find-the-right-solar-panel-that-fits-your-home",
+        "destination": "/blog/types-of-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/waaree-aviator-series-the-future-of-solar-pv-is-here",
+        "destination": "/blog/waaree-aviator-series",
+       "permanent": true
+      }, 
+     
+      {
+        "source": "/blog/what-you-need-to-know-about-wall-mounted-solar-panels-h1",
+        "destination": "/blog/wall-mounted-solar-panels",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/solar-financing-options-how-to-find-the-best-solar-financing",
+        "destination": "/blog/what-are-the-financing-options-to-buy-a-solar-plant",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-is-a-solar-array-and-are-they-right-for-your-home",
+        "destination": "/blog/what-is-a-solar-array",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-matters-to-you-lcoe-roi-or-specific-energy-yield",
+        "destination": "/blog/what-matters-to-you-lcoe",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/what-s-and-why-s-of-pid",
+        "destination": "/blog/whats-and-whys-of-pid",
+       "permanent": true
+      },     
+      
+      {
+        "source": "/blog/why-don-t-countries-invest-altogether-to-make-connected-solar-plants-all-over-the-globe",
+        "destination": "/blog/why-countries-not-invest-altogether-for-solar",
+       "permanent": true
+      }, 
+      
+      {
+        "source": "/blog/wind-vs-solar-which-renewable-energy-is-better",
+        "destination": "/blog/wind-vs-solar",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/next-in-super-series.htm",
+        "destination": "/blog/next-in-super-series-hjt",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/the-next-in-our-super-series-superhjt",
+        "destination": "/blog/next-in-super-series-hjt",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/next-in-super-series",
+        "destination": "/blog/next-in-super-series-hjt",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/top-10-solar-panel-manufacturers-in-the-world-2021-expert-reviews",  
+        "destination": "/blog/top-10-solar-panel-manufacturers-in-the-world",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/top-10-solar-panel-manufacturers-in-the-world-2022-expert-reviews-1",  
+        "destination": "/blog/top-10-solar-panel-manufacturers-in-the-world",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/floating-solar-panels-what-you-need-to-know",  
+        "destination": "/blog/floating-solar-what-you-need-to-know",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/need-to-know-about-floating-solar-panels",  
+        "destination": "/blog/floating-solar-what-you-need-to-know",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/financing-options-to-buy-a-solar-plant",  
+        "destination": "/blog/how-to-find-best-solar-loan",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/how-does-the-solar-power-system-work",  
+        "destination": "/blog/how-solar-power-system-works",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/science-of-solar-how-does-it-work",  
+        "destination": "/blog/how-solar-panels-work",
+       "permanent": true
+      },
+
+      {
+
+        "source": "/blog/will-solar-panel-work-at-night",  
+        "destination": "/blog/how-solar-panels-work-at-night",
+       "permanent": true
+      },
+
+      {
+
+        "source": "/blog/will-solar-panel-work-at-night-time",  
+        "destination": "/blog/how-solar-panels-work-at-night",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/home-solar-system-how-to-build-one-that-uses-500-watts-to-power-only-a-laptop-and-standing-fan",  
+        "destination": "/blog/500-watt-solar-panel-explained",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/when-are-solar-panels-acceptable-on-historic-buildings",  
+        "destination": "/blog/solar-panels-on-historic-buildings",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/pros-and-cons-of-micro-inverters-vs-string-inverters",  
+        "destination": "/blog/micro-inverter-vs-string-inverter",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/business-benefits-commercial-solar-panels",  
+        "destination": "/blog/solar-panel-installation",
+       "permanent": true
+      },
+     
+      {
+        "source": "/blog/10-solar-energy-myths",  
+        "destination": "/blog/top-solar-energy-myths",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/10-solar-energy-myths",  
+        "destination": "/blog/top-solar-energy-myths",
+       "permanent": true
+      },
+
+      {
+        "source": "/aditya-60-cells-ws250wp–ws295wp",  
+        "destination": "/products/pv-module/poly",
+       "permanent": true
+      },
+
+      {
+        "source": "/inverter-support.php",  
+        "destination": "/products/inverter",
+       "permanent": true
+      },
+      
+      {
+        "source": "/blog/selecting-the-right-solar-pv-module.htm",  
+        "destination": "/blog/selecting-the-right-solar-pv-module-the-end-consumer-s-dilemma-part-2",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/waaree-india-s-largest-vertically-integrated-solar-energy-solution-company",  
+        "destination": "/blog/selecting-the-right-solar-pv-module-the-end-consumer-s-dilemma-part-2",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog/selecting-the-right-solar-pv-module-the-end-consumers-dilemma-part-2.htm",  
+        "destination": "/blog/selecting-the-right-solar-pv-module-the-end-consumer-s-dilemma-part-2",
+       "permanent": true
+      },
+
+      {
+        "source": "/blog.php",  
+        "destination": "/blog",
+       "permanent": true
+       },
+
+       
+      {
+        "source": "/products/pv-module/on-grid-inverters",  
+        "destination": "/products/inverter/on-grid-inverters",
+       "permanent": true
+       },
+
+       {
+        "source": "/products/pv-module/off-grid-inverters",  
+        "destination": "/products/inverter/off-grid-inverters",
+       "permanent": true
+       }
+      ]
+}
