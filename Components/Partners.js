@@ -43,6 +43,7 @@ export default class Partner extends Component{
         <main className="no-fullpage">
         <InnerBannerSection bgSrc={this.props.path?.Banner_Image ? this.props.path?.Banner_Image?.data[0]?.attributes?.url  : process.env.NEXT_PUBLIC_NO_IMAGE} pageTitle={this.props?.path?.Page_Title} bannerText={this.props?.path?.Short_Description} /> 
         <PartnerDetailSection data={this.props.Partner_Detail_Section} />
+        
         {/* <CaseStudySection data={this.props.Partner_Case_Study_Section} /> */}
         <FranchiseeLocationSection Partner_City_Data={this.props.Partner_City_Data} Partner_State_Data={this.props.Partner_State_Data} Partner_Location={this.props.Partner_Location} />
         <Footer Contact={this.props.Footer_Contact}  Web={this.props.cookie_policy}  MoreMenu={this.props.MoreMenu} 
