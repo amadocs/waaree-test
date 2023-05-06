@@ -9,6 +9,7 @@ module.exports = {
   build: {
     vendor: ['scrollmagic'],    
   },
+  target: 'serverless',
   plugins: [
     {
       src: '../plugins/scrollmagic' 
