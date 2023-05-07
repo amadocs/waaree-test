@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4016],{4016:function(e,n,t){t.r(n);var r=t(5893),s=(t(6486),t(7294),t(1664)),a=t.n(s);n.default=function(e){return(0,r.jsx)(a(),{href:e.buttonHref,prefetch:!1,children:(0,r.jsxs)("a",{className:"btn btn-primary",children:[e.buttonText,(0,r.jsx)("i",{className:"fa fa-chevron-right"})]})})}}}]);

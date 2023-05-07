@@ -90,7 +90,7 @@ export default class Footer extends Component{
                             <Row className="reveal-fade">
                                 <Col lg={5} className="footer-col">
                                     <ul>
-                                           <li><a href="/privacy-policy">Privacy Policy</a></li>
+                                           <li><a href="/privacy-policy">Privacy Policy.</a></li>
                                            <li><a href="/terms-and-conditions">Terms & Conditions</a></li>
                                     </ul>
                                 </Col>
